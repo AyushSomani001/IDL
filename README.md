@@ -1,2 +1,3 @@
-# IDL
+# Interpretability in Deep Learning
+### Authors: Ayush Somani, Alexander Horsch, Dilip K.Prasad
 This is a repository that contains practice module for the book 'Interpretability in Deep Learning'. This is recommended to AI practitioners and basically anyone who wants an overview of techniques to make their deep learning models more interpretable. To benefit from this book considerably, we expect the readers to be acquainted with basic deep learning terminologies. However, we attempt to introduce fundamental concepts for the convenience of the readers in the book. It should be likely to understand the intuitive explanation of the technique at the beginning of each chapter without mathematics.
