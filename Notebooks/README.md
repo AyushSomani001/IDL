@@ -10,7 +10,8 @@ Here are some notebooks compiled to help users better utilize the library's capa
 
 # References
 
-[1] Gildenblat, Jacob and contributors. “PyTorch Library for CAM Methods.” GitHub, Oct. 2021, https://github.com/jacobgil/pytorch-grad-cam.
+[1] Gildenblat, Jacob and contributors. “PyTorch Library for CAM Methods.” GitHub, Oct. 2021, <br>
+https://github.com/jacobgil/pytorch-grad-cam.
 
 [2] Fernandez, François-Guillaume and contributor. “TorchCAM: Class Activation Explorer.” GitHub, Mar. 2020, https://github.com/frgfm/torch-cam.
 
