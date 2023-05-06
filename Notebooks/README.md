@@ -8,11 +8,46 @@ Here are some notebooks compiled to help users better utilize the library's capa
 | [LatencyBenchmark](https://github.com/frgfm/notebooks/blob/main/torch-cam/latency_benchmark.ipynb) | How to Measure a CAM Method's Latency | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frgfm/notebooks/blob/main/torch-cam/latency_benchmark.ipynb) |
 
 
-# References
-
-[1] Gildenblat, Jacob and contributors. “PyTorch Library for CAM Methods.” GitHub, Oct. 2021, <br>
-https://github.com/jacobgil/pytorch-grad-cam.
-
-[2] Fernandez, François-Guillaume and contributor. “TorchCAM: Class Activation Explorer.” GitHub, Mar. 2020, https://github.com/frgfm/torch-cam.
+# Research Papers - To Read
 
 
+| Paper Title   |   Conference/Journal |   Author  | Description    |   
+|:----------|:----------|:------|:------|
+| [Towards Robust Interpretability with Self-Explaining Neural Networks!](https://proceedings.neurips.cc/paper_files/paper/2018/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf) | NeurIPS 2018 | David Alvarez-Melis, Tommi S. Jaakkola | Proposes self-explaining neural networks, which learn to provide interpretable explanations for their predictions by incorporating explicit explanatory factors into the model architecture. | 
+| [Relevance-CAM: Your Model Already Knows Where to Look!](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Relevance-CAM_Your_Model_Already_Knows_Where_To_Look_CVPR_2021_paper.pdf) | CVPR 2021 | Jeong Ryong Lee, Sewon Kim, Inyong Park, Taejoon Eo, Dosik Hwang  |  | 
+| [Neural Prototype Trees for Interpretable Fine-Grained Image Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.pdf) | CVPR 2021 | Meike Nauta, Ron van Bree, Christin Seifert |  |  
+| [Concept-Monitor: Understanding DNN training through individual neurons](https://arxiv.org/pdf/2304.13346.pdf)| April 2023 | Mohammad Ali Khan, Tuomas Oikarinen, Tsui-Wei Weng | |
+
+<details open>
+  <summary><strong>Recent and Interesting Archived Papers on Chat-GPT for Research:</strong></summary>
+     [1] <a href="https://arxiv.org/pdf/2304.11567.pdf">Differentiate ChatGPT-generated and Human-written Medical Texts</a> | Liao et al. (2023)
+    <br/>
+    [2] <a href="https://arxiv.org/pdf/2304.08979.pdf">In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT</a> | Shen et al. (2023)
+    <br/>
+    [3] <a href="https://arxiv.org/pdf/2304.05335.pdf"> Toxicity in CHATGPT: Analyzing Persona-assigned Language Models </a> | Deshpande et al. (2023)
+   <br/> 
+</details>
+
+
+<details open>
+  <summary><strong>Intriguing Model Improvement Application Paper:</strong></summary>
+     [1] <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf">Attention-based Dropout Layer for Weakly Supervised Object Localization</a> | Junsuk Choe, Hyunjung Shim (CVPR 2019) | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="16" /> <a href="https://github.com/junsukchoe/ADL">GitHub</a> |
+    <br/>
+</details>
+
+# References - Research Papers
+
+
+| Paper     |      Description      | Author  |
+|:----------|:-------------|------:|
+| [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html) | Introduces `Grad-CAM`, a method that generalizes CAMs and provides better visual explanations for deep networks! | Selvaraju et al. (2016) |
+| [Axiomatic Attribution for Deep Networks](http://proceedings.mlr.press/v70/sundararajan17a.html)| Presents `Integrated Gradients`, a technique that attributes the output of a deep network to its input features, providing a more comprehensive understanding of the model's decision-making process. | Sundararajan et al. (2017)|
+
+
+# Resources
+
+[1] Gildenblat, Jacob and contributors. “[PyTorch Library for CAM Methods](https://github.com/jacobgil/pytorch-grad-cam).” GitHub, Oct. 2021.
+
+[2] Fernandez, François-Guillaume and contributor. “[TorchCAM: Class Activation Explorer](https://github.com/frgfm/torch-cam).” GitHub, Mar. 2020.
+
+[3] Ozbek, Ahmet Can. “[Food-hunter: Food Hunting With CNNs](https://github.com/a-ozbek/food-hunter).” GitHub, Sept. 2018.
