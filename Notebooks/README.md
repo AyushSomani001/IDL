@@ -13,6 +13,7 @@ Here are some notebooks compiled to help users better utilize the library's capa
 
 | Paper     |      Description      | Author  |
 |:----------|:-------------|------:|
+|[Learning deep features for discriminative localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)|  | Zhou et al. (2016) | 
 | [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html) | Introduces `Grad-CAM`, a method that generalizes CAMs and provides better visual explanations for deep networks! | Selvaraju et al. (2016) |
 | [Axiomatic Attribution for Deep Networks](http://proceedings.mlr.press/v70/sundararajan17a.html)| Presents `Integrated Gradients`, a technique that attributes the output of a deep network to its input features, providing a more comprehensive understanding of the model's decision-making process. | Sundararajan et al. (2017)|
 
