@@ -1,4 +1,4 @@
-# Interpretability in Deep Learning
+# [Interpretability in Deep Learning](https://link.springer.com/book/10.1007/978-3-031-20639-9)
 ### Authors: Ayush Somani, Alexander Horsch, Dilip K.Prasad
 This is a repository that contains practice module for the monograph 'Interpretability in Deep Learning'. This is recommended to AI practitioners and basically anyone who wants an overview of techniques to make their deep learning models more interpretable. To benefit from this book considerably, we expect the readers to be acquainted with basic deep learning terminologies. However, we attempt to introduce fundamental concepts for the convenience of the readers in the book. It should be likely to understand the intuitive explanation of the technique at the beginning of each chapter without mathematics.
 
@@ -34,4 +34,18 @@ This is a repository that contains practice module for the monograph 'Interpreta
     <br/>
 </details>
 
+# Citation
+If you wish to cite the book "Interpretability in Deep Learning", feel free to use this [BibTeX](http://www.bibtex.org/) reference:
 
+```bibtex
+@book{somani2023interpretability,
+  title={Interpretability in Deep Learning},
+  author={Somani, Ayush and Horsch, Alexander and Prasad, Dilip K},
+  year={2023},
+  publisher={Springer Nature}
+}
+```
+
+## Contributing
+
+Feeling like extending the range of possibilities of interpretable methods to make AI more trustable? Or perhaps submitting a paper implementation? Any sort of contribution is greatly appreciated!
