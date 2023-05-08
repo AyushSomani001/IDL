@@ -5,7 +5,7 @@ Here are some notebooks compiled to help users better utilize the library's capa
 | Notebook     |      Description      |   |
 |:----------|:-------------|------:|
 | [QuickTour](https://github.com/AyushSomani001/IDL/Notebooks/Torch-CAM/QuickTour.ipynb) | An overview of TorchCAM's primary features | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AyushSomani001/IDL/Notebooks/Torch-CAM/QuickTour.ipynb) |
-| [Grad-CAMs](https://github.com/AyushSomani001/IDL/Notebooks/Grad-CAMs.ipynb) | Visualizing and interpreting CNN model activations for object localization and model fine-tuning. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AyushSomani001/IDL/Notebooks/Grad-CAMs.ipynb) |
+| [Grad-CAMs](Notebooks/Grad-CAMs.ipynb) | Visualizing and interpreting CNN model activations for object localization and model fine-tuning. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AyushSomani001/IDL/Notebooks/Grad-CAMs.ipynb) |
 | [CNN-Explainer](https://github.com/AyushSomani001/IDL/Notebooks/CNN_explainer.ipynb) | An interactive visualization system designed to help learn about CNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AyushSomani001/IDL/Notebooks/CNN_explainer.ipynb) |
 
 
