@@ -4,8 +4,9 @@ Here are some notebooks compiled to help users better utilize the library's capa
 
 | Notebook     |      Description      |   |
 |:----------|:-------------|------:|
-| [QuickTour](https://github.com/AyushSomani001/IDL/torch-cam/QuickTour.ipynb) | An overview of TorchCAM's primary features | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frgfm/notebooks/blob/main/torch-cam/quicktour.ipynb) |
-| [LatencyBenchmark](https://github.com/frgfm/notebooks/blob/main/torch-cam/latency_benchmark.ipynb) | How to Measure a CAM Method's Latency | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frgfm/notebooks/blob/main/torch-cam/latency_benchmark.ipynb) |
+| [QuickTour](https://github.com/AyushSomani001/IDL/Notebooks/Torch-CAM/QuickTour.ipynb) | An overview of TorchCAM's primary features | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AyushSomani001/IDL/Notebooks/Torch-CAM/QuickTour.ipynb) |
+| [Grad-CAMs](https://github.com/AyushSomani001/IDL/Notebooks/Grad-CAMs.ipynb) | Visualizing and interpreting CNN model activations for object localization and model fine-tuning. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AyushSomani001/IDL/Notebooks/Grad-CAMs.ipynb) |
+| [CNN-Explainer](https://github.com/AyushSomani001/IDL/Notebooks/CNN_explainer.ipynb) | An interactive visualization system designed to help learn about CNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AyushSomani001/IDL/Notebooks/CNN_explainer.ipynb) |
 
 
 # References - Research Papers
