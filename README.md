@@ -1,9 +1,16 @@
-# [Interpretability in Deep Learning](https://link.springer.com/book/10.1007/978-3-031-20639-9)
-### Authors: Ayush Somani, Alexander Horsch, Dilip K.Prasad
-This is a repository that contains practice module for the monograph 'Interpretability in Deep Learning'. This is recommended to AI practitioners and basically anyone who wants an overview of techniques to make their deep learning models more interpretable. To benefit from this book considerably, we expect the readers to be acquainted with basic deep learning terminologies. However, we attempt to introduce fundamental concepts for the convenience of the readers in the book. It should be likely to understand the intuitive explanation of the technique at the beginning of each chapter without mathematics.
+# Interpretable DL Playground
+This is a repository that contains a comprehensive resource for AI practitioners and enthusiasts to explore and practice interpretable deep learning techniques, featuring a curated collection of modules, a relevant book "[Interpretability in Deep Learning](https://link.springer.com/book/10.1007/978-3-031-20639-9)" (Springer 2023), and intuitive explanations. 
+
+While we do recommend basic deep learning knowledge, we've also included fundamental concepts for the convenience of our readers. Our goal is to help you understand the most prevalent and common practices of explainable AI and provide intuitive explanations of the techniques without delving too much into the mathematics at the beginning of each chapter. 
+
+### About the Repository
+Are you tired of black-box deep learning models that are difficult to interpret and explain? Look no further! 
+Our repository aims to contain a curated collection of practice modules (shall be expanded over time) for interpretable AI and trustworthy model development.
+
+Whether you're an AI practitioner or simply interested in learning more about interpretable deep learning techniques, our repository is the perfect resource for you to start. But that's not all! We've also included resources for you to further your understanding of the topic. We attempt to expand the practice modules over time in complex topics to help you apply the techniques in a hands-on manner, so you can see the benefits of interpretable AI for yourself.
 
 
-# Research Papers - To Read
+### Research Papers - To Read
 
 
 | Paper Title   |   Conference/Journal |   Author  | Description    |   
@@ -34,7 +41,7 @@ This is a repository that contains practice module for the monograph 'Interpreta
     <br/>
 </details>
 
-# Citation
+## Citation
 If you wish to cite the book "Interpretability in Deep Learning", feel free to use this [BibTeX](http://www.bibtex.org/) reference:
 
 ```bibtex
@@ -46,6 +53,10 @@ If you wish to cite the book "Interpretability in Deep Learning", feel free to u
 }
 ```
 
-## Contributing
+<img align="right" src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-20639-9?as=webp" width="150" alt="Book Cover" title="Interpretability in Deep Learning">
+
+
+### Contributing
 
 Feeling like extending the range of possibilities of interpretable methods to make AI more trustable? Or perhaps submitting a paper implementation? Any sort of contribution is greatly appreciated!
+
