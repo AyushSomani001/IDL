@@ -23,7 +23,7 @@ To use the Food-5K dataset, follow these steps:
 3. Organize the dataset into two main folders: train and test. Within each folder, create subfolders for each class/category of food. For example, if your dataset has 10 categories of food, you should have 10 subfolders within the train and test folders.
 4. The Food-5K dataset has 2 classes, those being Food and Not Food. So you need to make two subfolders in each train and test.
 5. Split your dataset into training and testing sets. Generally, an 70-30 split is recommended. Ensure that the distribution of classes is maintained in both sets.
-
+* Class Activation Map (CAM) is technique that could be implemented here for food localization [http://cnnlocalization.csail.mit.edu].
 
 ### Objective
 Use the dataset to train a model. The model may be made from scratch or pretrained model from here: [https://s3-us-west-2.amazonaws.com/models-a-c-ozbek/model_food.h5] Put the model file in the same level folder of the script. The dataset choice is left upto your discretion. 
