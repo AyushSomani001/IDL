@@ -1,0 +1,13 @@
+Pillow
+scikit_learn==0.24.1
+scipy
+ttach==0.0.3
+seaborn
+ipywidgets==7.7.1
+matplotlib
+numpy
+pandas
+#torch==1.12.1
+#torchvision==0.13.1
+tqdm
+tensorflow
