@@ -1,5 +1,5 @@
 Pillow
-scikit_learn==0.24.1
+scikit_learn
 scipy
 ttach==0.0.3
 seaborn
