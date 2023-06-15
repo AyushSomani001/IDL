@@ -1,4 +1,6 @@
 ## Task 4: Overview
+**This is optional**
+
 On the **Food-5K** dataset, we will attempt to visualize various interpretability techniques. You are free to use any other dataset you want. The goal of this work is to train a model (from scratch or from a pretrained one) for use on your new dataset xAI task. 
 The Food-5K dataset's default task is classification. For the interpretability techniques, you can write your own code or use online resources.
 
